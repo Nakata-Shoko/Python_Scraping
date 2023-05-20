@@ -5,6 +5,7 @@ import chromedriver_binary
 import time
 from selenium.webdriver.common.by import By
 
+
 option = Options()
 option.add_argument('--headless')
 
